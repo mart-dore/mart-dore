@@ -71,29 +71,23 @@ leurs nouvelles fonctionnalités.
 
 ---
 
+## 🎯 Projets
+
+| Projet | Ce que ça démontre | Stack |
+|---|---|---|
+| **[Dashboard Production Laitière](https://github.com/mart-dore/MilkProduction_Dashboard)** · [▶ démo live](https://martindore.shinyapps.io/Milk_Production_Analysis/) | Mission freelance : un outil qui permet à un non-statisticien de mener seul une étude comparative complète — nettoyage, régression, KPIs | `R` `Shiny` `Plotly` |
+| **[Analyse vidéo de match de foot](https://github.com/mart-dore/ComputerVision)** | Détection et suivi des joueurs, attribution des équipes par couleur de maillot, et **possession de balle calculée image par image** | `Python` `YOLO` `OpenCV` |
+| **[Prédiction de consommation](https://github.com/mart-dore/datascience-portfolio)** | Chaîne complète EDA → modélisation → API Flask. **RMSE de 2,31 MPG**, soit 9,8 % d'erreur relative | `Python` `scikit-learn` `Flask` |
+| **[Snake AI](https://github.com/mart-dore/Snake_AI)** | Agent entraîné par Q-learning profond, sans supervision : état à 11 valeurs, replay de 100 000 transitions | `Python` `PyTorch` |
+
+<sub>Et quelques implémentations from scratch — [PageRank](https://github.com/mart-dore/PageRank), un [classifieur à base de règles en Haskell](https://github.com/mart-dore/Average_Order_Value_Haskell), un [arbre de décision Spark rendu navigable](https://github.com/mart-dore/JS_decisionTree).</sub>
+
+---
+
 <div align="center">
 <sub>💬 Une question, une opportunité, ou juste envie d'échanger sur un projet data ?
 <a href="https://linkedin.com/in/martindore21">Écris-moi sur LinkedIn</a>.</sub>
 </div>
-
-<!--
-  ═══════════════════════════════════════════════════════════════════
-  SECTION PROJETS — à décommenter quand tu auras de quoi la remplir.
-  Colle-la juste au-dessus de « 🧰 Stack ».
-
-  Règle : 3 ou 4 projets maximum. Un profil avec 3 projets solides bat
-  un profil avec 12 projets moyens. La colonne du milieu ne décrit pas
-  le projet, elle dit ce qu'il prouve sur toi — et donne un chiffre.
-  ═══════════════════════════════════════════════════════════════════
-
-## 🎯 Projets
-
-| | Ce que ça démontre | Stack |
-|---|---|---|
-| **[nom-du-repo](https://github.com/mart-dore/nom-du-repo)** | Le problème résolu, et le résultat — avec une métrique | `Python` `scikit-learn` |
-| **[nom-du-repo](https://github.com/mart-dore/nom-du-repo)** | … | `…` |
-
--->
 
 <!--
   ═══════════════════════════════════════════════════════════════════
