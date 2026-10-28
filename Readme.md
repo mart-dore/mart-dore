@@ -1,118 +1,36 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+%26+Data+Engineering;Du+notebook+%C3%A0+la+production" alt="Martin Doré — Data Scientist" />
-
-**Martin Doré** · Maths appliquées &amp; Informatique
-
-<a href="https://linkedin.com/in/martindore21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Ouvert_aux_opportunit%C3%A9s-2ea44f?style=for-the-badge" alt="Statut">
-
-<!-- Badge email optionnel — décommente et remplace si tu veux exposer ton adresse :
-<a href="mailto:TON.EMAIL@exemple.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
--->
-
-</div>
-
----
-
-## 🤖 IA générative &amp; vibe coding
-
-Enthousiaste de l'IA générative : j'utilise les assistants au quotidien et je m'intéresse à
-leurs nouvelles fonctionnalités.
-
-<div align="center">
-
-<sub><b>Modèles &amp; assistants</b></sub>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![Kimi](https://img.shields.io/badge/Kimi-2E2E3A?style=flat-square&logo=kimi&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=flat-square&logo=mistralai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square)
-![GLM](https://img.shields.io/badge/GLM_·_z.ai-1A56DB?style=flat-square)
-![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=flat-square&logo=qwen&logoColor=white)
-
-<sub><b>Outils de code</b></sub>
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claudecode&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-2A2A35?style=flat-square&logo=opencode&logoColor=white)
-![Kilo Code](https://img.shields.io/badge/Kilo_Code-7C5CFF?style=flat-square)
-
-</div>
-
-> 🚧 Les skills que je construis et mes projets vibe-codés atterriront ici.
-
----
-
-## 🧰 Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Shiny](https://img.shields.io/badge/Shiny-276DC3?style=flat-square&logo=rstudio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-## 🎯 Projets
-
-| Projet | Ce que ça démontre | Stack |
-|---|---|---|
-| **[Dashboard Production Laitière](https://github.com/mart-dore/MilkProduction_Dashboard)** · [▶ démo live](https://martindore.shinyapps.io/Milk_Production_Analysis/) | Mission freelance : un outil qui permet à un non-statisticien de mener seul une étude comparative complète — nettoyage, régression, KPIs | `R` `Shiny` `Plotly` |
-| **[Analyse vidéo de match de foot](https://github.com/mart-dore/ComputerVision)** | Détection et suivi des joueurs, attribution des équipes par couleur de maillot, et **possession de balle calculée image par image** | `Python` `YOLO` `OpenCV` |
-| **[Prédiction de consommation](https://github.com/mart-dore/datascience-portfolio)** | Chaîne complète EDA → modélisation → API Flask. **RMSE de 2,31 MPG**, soit 9,8 % d'erreur relative | `Python` `scikit-learn` `Flask` |
-| **[Snake AI](https://github.com/mart-dore/Snake_AI)** | Agent entraîné par Q-learning profond, sans supervision : état à 11 valeurs, replay de 100 000 transitions | `Python` `PyTorch` |
-
-<sub>Et quelques implémentations from scratch — [PageRank](https://github.com/mart-dore/PageRank), un [classifieur à base de règles en Haskell](https://github.com/mart-dore/Average_Order_Value_Haskell), un [arbre de décision Spark rendu navigable](https://github.com/mart-dore/JS_decisionTree).</sub>
-
----
-
-<div align="center">
-<sub>💬 Une question, une opportunité, ou juste envie d'échanger sur un projet data ?
-<a href="https://linkedin.com/in/martindore21">Écris-moi sur LinkedIn</a>.</sub>
-</div>
-
 <!--
-  ═══════════════════════════════════════════════════════════════════
-  SKILLS & PROJETS VIBE-CODÉS — à décommenter le moment venu, en
-  remplacement de la ligne « 🚧 » de la section « 🤖 IA générative ».
-  ═══════════════════════════════════════════════════════════════════
-
-**Ce que je construis**
-
-| | |
-|---|---|
-| **[nom-du-skill](https://github.com/mart-dore/nom-du-skill)** | Ce que le skill automatise, et pour qui |
-| **[nom-du-projet](https://github.com/mart-dore/nom-du-projet)** | Monté en vibe coding — le résultat, pas la méthode |
-
+THESIS: the profile is a boutique record: an almost empty front with one mark, a crowded obi band, a back cover listing the work; refuses the dense dashboard profile.
+OWN-WORLD: Shibuya-style sleeve. Pale sleeve stock, one vermilion mark (raw dots resolving into a solid disc), a cobalt obi packed with vertical credits, Archivo wide caps, mono catalog numbers.
+STORY: visitor gets the identity from the mark and the obi, reads the track list where each "duration" is a proof, follows the credits to LinkedIn.
+FIRST VIEWPORT: front and back side by side; the obi slides onto the front once.
+FORM: challenger boutique sleeve, seed 283d6aff.
 -->
 
-<!--
-  Cartes de stats — à réactiver seulement quand ton graphe de contributions
-  sera à nouveau alimenté. Sur un profil inactif, elles desservent plus qu'elles n'aident.
-  (Ne pas remettre le streak : github-readme-streak-stats.herokuapp.com est hors service.)
+<img src="assets/sleeve.svg" alt="Record sleeve. Front: a single mark, raw dots resolving into a solid disc, wrapped by a blue obi band: Martin Doré, data scientist, machine learning, data engineering, AI agents, open to work CDI or freelance. Back: track list. A1 Débrief AI Studio, voice in, video out, 120 frames in about 7 seconds. A2 Dairy Dashboard, a farmer runs the study alone, live demo. B1 Match Analysis, ball possession frame by frame, YOLOv8. B2 Fuel Model, a prediction behind a Flask API, RMSE 2.31." width="100%">
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mart-dore&theme=dark&hide_border=true&count_private=true&hide_title=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mart-dore&theme=dark&hide_border=true&layout=compact&count_private=true)
+**Side A**<br>
+`A1` [Débrief AI Studio](https://github.com/mart-dore/debrief-ai-studio)<br>
+<sub>Raw voice-over in, vertical video out. Offline Whisper, per-word animation, the method written as Claude skills.</sub><br>
+`A2` [Dairy Dashboard](https://github.com/mart-dore/MilkProduction_Dashboard) · [live demo](https://martindore.shinyapps.io/Milk_Production_Analysis/)<br>
+<sub>Freelance mission: a farmer runs a full comparative study alone.</sub>
 
-</div>
--->
+</td>
+<td valign="top" width="50%">
+
+**Side B**<br>
+`B1` [Match Analysis](https://github.com/mart-dore/ComputerVision)<br>
+<sub>YOLOv8 tracking, teams by shirt colour, possession frame by frame.</sub><br>
+`B2` [Fuel Model](https://github.com/mart-dore/datascience-portfolio)<br>
+<sub>EDA to Flask API, RMSE 2.31 MPG.</sub>
+
+</td>
+</tr>
+</table>
+
+<sub>Bonus tracks: [PageRank](https://github.com/mart-dore/PageRank) · [Haskell classifier](https://github.com/mart-dore/Average_Order_Value_Haskell) · [Spark tree in D3](https://github.com/mart-dore/JS_decisionTree) · [Snake DQN](https://github.com/mart-dore/Snake_AI)</sub>
+
+**Booking:** data scientist roles (CDI) and freelance missions, via [linkedin.com/in/martindore21](https://linkedin.com/in/martindore21).
