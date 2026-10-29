@@ -6,7 +6,7 @@ FIRST VIEWPORT: front and back side by side; the obi slides onto the front once.
 FORM: challenger boutique sleeve, seed 283d6aff.
 -->
 
-<img src="assets/sleeve.svg" alt="Record sleeve. Front: a single mark, raw dots resolving into a solid disc, wrapped by a blue obi band: Martin Doré, data scientist, machine learning, data engineering, AI agents, open to work CDI or freelance. Back: track list. A1 Débrief AI Studio, voice in, video out, 120 frames in about 7 seconds. A2 Dairy Dashboard, a farmer runs the study alone, live demo. B1 Match Analysis, ball possession frame by frame, YOLOv8. B2 Fuel Model, a prediction behind a Flask API, RMSE 2.31." width="100%">
+<a href="https://mart-dore.github.io"><img src="assets/sleeve.svg" alt="Record sleeve. Front: a single mark, raw dots resolving into a solid disc, wrapped by a blue obi band: Martin Doré, data scientist, machine learning, data engineering, AI agents, open to work CDI or freelance. Back: track list. A1 Débrief AI Studio, voice in, video out, 120 frames in about 7 seconds. A2 Dairy Dashboard, a farmer runs the study alone, live demo. B1 Match Analysis, ball possession frame by frame, YOLOv8. B2 Fuel Model, a prediction behind a Flask API, RMSE 2.31." width="100%"></a>
 
 <table>
 <tr>
@@ -33,4 +33,5 @@ FORM: challenger boutique sleeve, seed 283d6aff.
 
 <sub>Bonus tracks: [PageRank](https://github.com/mart-dore/PageRank) · [Haskell classifier](https://github.com/mart-dore/Average_Order_Value_Haskell) · [Spark tree in D3](https://github.com/mart-dore/JS_decisionTree) · [Snake DQN](https://github.com/mart-dore/Snake_AI)</sub>
 
+**Play the full record:** [mart-dore.github.io](https://mart-dore.github.io)<br>
 **Booking:** data scientist roles (CDI) and freelance missions, via [linkedin.com/in/martindore21](https://linkedin.com/in/martindore21).
